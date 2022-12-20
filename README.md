@@ -1,1 +1,1 @@
-# Y-ld-z-le-kare-izme
+# * İşareti kullanarak içi dolu kare çizimi yaptım
